@@ -1,0 +1,12 @@
+{
+    "name": "tima/lesson1",
+    "authors": [
+        {
+            "name": "teimur8",
+            "email": "teimur8@yandex.ru"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    }
+}
